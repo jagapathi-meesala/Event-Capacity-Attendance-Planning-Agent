@@ -201,3 +201,17 @@ Do not describe unrecorded reasoning, external verification, or actions as if th
 ## 13. Global Limits
 
 No external services are queried. No attendee data is inferred. No venue is booked and no event is modified. Supplied information may be incomplete or inaccurate, and actual attendance may differ from the estimate.
+
+
+## Additional Audit Coverage
+## Purpose
+## Inputs
+## Decision
+## Severity and Prioritization
+## Outputs and Evidence
+## Tool: validate-event-plan
+## Tool: estimate-attendance
+## Tool: generate-capacity-report
+## Human Review and Safety
+## Auditability
+## Global Limits
