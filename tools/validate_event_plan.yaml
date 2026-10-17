@@ -1,0 +1,7 @@
+name: validate-event-plan
+description: Validate required event plan fields, venue capacity, registrations, and attendance rate.
+inputs:
+  - event_plan
+outputs:
+  - validation_issues
+side_effects: none

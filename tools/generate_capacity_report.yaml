@@ -1,0 +1,9 @@
+name: generate-capacity-report
+description: Generate a capacity report with findings, evidence, priorities, and recommendations for human review.
+inputs:
+  - event_plan
+  - estimated_attendance
+  - validation_issues
+outputs:
+  - report_json
+side_effects: none
