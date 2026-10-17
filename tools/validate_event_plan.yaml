@@ -1,0 +1,5 @@
+name: validate-event-plan
+description: Validate required event-plan fields and numeric constraints.
+inputs: [event_plan]
+outputs: [validation_issues]
+side_effects: none

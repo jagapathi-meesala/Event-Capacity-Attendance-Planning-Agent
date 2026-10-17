@@ -1,0 +1,5 @@
+name: estimate-attendance
+description: Estimate attendance using registrations and a supplied attendance-rate assumption.
+inputs: [registrations, expected_attendance_rate]
+outputs: [expected_attendance]
+side_effects: none

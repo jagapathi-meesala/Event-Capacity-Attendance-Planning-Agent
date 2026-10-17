@@ -1,0 +1,10 @@
+{
+  "event_id": "EVT-2026-001",
+  "event_name": "Campus Technology Day",
+  "event_date": "2026-11-15",
+  "venue_capacity": 500,
+  "registrations": 420,
+  "expected_attendance_rate": 0.82,
+  "minimum_staff_ratio": 0.05,
+  "notes": "Sample planning record; verify assumptions."
+}

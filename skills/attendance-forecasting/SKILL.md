@@ -1,0 +1,1 @@
+# Attendance Forecasting\nUse only supplied registrations and attendance rate. Compute ceil(registrations × rate), state assumptions, and do not guarantee turnout.\n

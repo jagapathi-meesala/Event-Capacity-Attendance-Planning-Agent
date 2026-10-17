@@ -1,0 +1,1 @@
+# Capacity Planning\nValidate capacity, compare estimate to capacity, flag over-capacity as high priority, and require venue/human confirmation. Never certify legal occupancy.\n

@@ -1,0 +1,1 @@
+# Event Safety Review\nRemind organizers to verify permitted occupancy, accessible routes, emergency exits, staffing, and venue rules. Human approval is required.\n
